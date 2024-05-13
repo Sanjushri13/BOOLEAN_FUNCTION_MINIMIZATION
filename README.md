@@ -1,3 +1,5 @@
+# Developed by:Sanjushri.A
+# Register number:212223040187
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 # AIM:
@@ -58,9 +60,10 @@ Real-world examples demonstrating the importance of minimization.
 
 
 #   PROGRAM:
-#   Developed by:SANJUSHRI.A
-#   RegisterNumber:212223040187
 ```
+Developed by:SANJUSHRI.A
+ RegisterNumber:212223040187
+
 module BMf1f2(a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
